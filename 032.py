@@ -1,0 +1,1 @@
+ano = int(input(' Que ano vc quer analisar?'))
